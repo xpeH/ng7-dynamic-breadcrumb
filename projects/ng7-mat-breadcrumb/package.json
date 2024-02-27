@@ -1,11 +1,11 @@
 {
   "name": "ng7-mat-breadcrumb",
-  "description": "Angular 14 Material  Breadcrumb NPM Module",
+  "description": "Angular XX Material  Breadcrumb NPM Module",
   "version": "8.0.0",
   "peerDependencies": {
-    "@angular/common": "^14.0.0",
-    "@angular/core": "^14.0.0",
-    "@angular/material": "^14.0.0"
+    "@angular/common": "^17.2.1",
+    "@angular/core": "^17.2.1",
+    "@angular/material": "^17.2.1"
   },
   "license": "MIT",
   "repository": {
